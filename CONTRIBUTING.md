@@ -46,7 +46,7 @@ Here are some ways that you can learn a lot about the library, whilst also contr
 
 Please run [`nbdev_install_hooks`](https://nbdev.fast.ai/api/clean.html#nbdev_install_hooks) in your terminal after cloning the repository. This sets up git hooks, which clean up the notebooks to remove the extraneous stuff stored in the notebooks (e.g. which cells you ran) which causes unnecessary merge conflicts.
 
-If you made a change to the notebooks in one of the exported cells, you can export it to the library with [`nbdev_export`](https://nbdev.fast.ai/api/doclinks.html#nbdev_export).
+If you made a change to the notebooks in one of the exported cells, you can export it to the library with [`nbdev-export`](https://nbdev.fast.ai/api/doclinks.html#nbdev_export).
 If you made a change to the library, you can export it back to the notebooks with [`nbdev_update`](https://nbdev.fast.ai/api/sync.html#nbdev_update).
 
 Furthermore, you can run tests in parallel by launching [`nbdev_test`](https://nbdev.fast.ai/api/test.html#nbdev_test).
