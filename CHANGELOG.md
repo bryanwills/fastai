@@ -2,6 +2,13 @@
 
 <!-- do not remove -->
 
+## 2.8.10
+
+### Bugs Squashed
+
+- Pin plum-dispatch below 2.10, which breaks import on compiled wheels ([#4166](https://github.com/fastai/fastai/pull/4166)), thanks to [@jph00](https://github.com/jph00)
+
+
 ## 2.8.9
 
 ### New Features
