@@ -2,6 +2,14 @@
 
 <!-- do not remove -->
 
+## 2.8.9
+
+### New Features
+
+- Add SerpApi-backed image search, and document vision.utils ([#4165](https://github.com/fastai/fastai/pull/4165)), thanks to [@jph00](https://github.com/jph00)
+- Read callback and transform arguments with `init_args` ([#4164](https://github.com/fastai/fastai/pull/4164)), thanks to [@jph00](https://github.com/jph00)
+
+
 ## 2.8.8
 
 ### New Features
