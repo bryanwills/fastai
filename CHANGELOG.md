@@ -2,6 +2,13 @@
 
 <!-- do not remove -->
 
+## 2.8.11
+
+### Bugs Squashed
+
+- Fix `RandTransform` repr recursion, and document vision.augment ([#4167](https://github.com/fastai/fastai/pull/4167)), thanks to [@jph00](https://github.com/jph00)
+
+
 ## 2.8.10
 
 ### Bugs Squashed
