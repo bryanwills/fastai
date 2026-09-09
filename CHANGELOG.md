@@ -2,6 +2,13 @@
 
 <!-- do not remove -->
 
+## 2.8.12
+
+### New Features
+
+- prefetch data in tests ([#4168](https://github.com/fastai/fastai/issues/4168))
+
+
 ## 2.8.11
 
 ### Bugs Squashed
